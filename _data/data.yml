@@ -12,17 +12,17 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: velpula@seas.upenn.edu
     phone: +1(925)922-0843 
-    website: blog.webjeda.com #do not add http://
-    linkedin: varunvelpula
-    github: varunvelpula
+    website: varunvelpula.github.io/online-cv/ #do not add http://
+    linkedin: varun-velpula
+    github: github.com/varunvelpula
     # gitlab:
     # bitbucket:
-    twitter: '@webjeda'
+    # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -38,28 +38,23 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Drawing
         link:
 
-      - item: Snowboarding
+      - item: Reading
         link:
 
-      - item: Cooking
+      - item: Car Designing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Robotics
+      university: University of Pennsylvania
+      time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: BTech in Mechanical Engineering
       university: Bristol University
-      time: 2007 - 2011
+      time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
