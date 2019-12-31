@@ -50,17 +50,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      
+      I am current graduate sudent at the University of Pennsylvania. I am pursueing my Masters degree in MS Robotics.
+      I have done my undergraduate at the National Institute of Technology Karnataka where I had majored in Mechanical Engineering.
+      My career interests are in controol systems, design of robots and applications of ML in robotics.
 education:
     - degree: MS in Robotics
       university: University of Pennsylvania
       time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The MS in Robotics is a truly interdisciplinary course, where I have the flexibility of taking courses in Computer Science, Electrical
+        and Mechanical Engineering. 
           - Bullet point
           - Bullet point
     - degree: BTech in Mechanical Engineering
