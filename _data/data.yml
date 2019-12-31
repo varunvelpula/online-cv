@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -60,7 +60,6 @@ education:
       details: |
         The MS in Robotics is a truly interdisciplinary course, where I have the flexibility of taking courses in Computer Science, Electrical
         and Mechanical Engineering. In my first semester I have taken Machine Learning, Linear Systems and Theory and Intro to Robotics.
-
           - Bullet point
           - Bullet point
     - degree: BTech in Mechanical Engineering
@@ -94,9 +93,9 @@ experiences:
         noise and improve data reliability
         Developed the network for communication of data among MAVs, motion capture system and workstation
         using Robot Operating System (ROS) and Matlab
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Summer Intern
+      time: May 2017 - Aug 2017
+      company: ABB Robotics, Bangalore, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
