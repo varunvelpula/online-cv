@@ -50,20 +50,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am current graduate sudent at the University of Pennsylvania. I am pursueing my Masters degree in MS Robotics.
+      I am current graduate sudent at the University of Pennsylvania. I am pursuing my Masters degree in MS Robotics.
       I have done my undergraduate at the National Institute of Technology Karnataka where I had majored in Mechanical Engineering.
-      My career interests are in controol systems, design of robots and applications of ML in robotics.
+      My career interests are in control systems, design of robots and applications of ML in robotics.
 education:
     - degree: MS in Robotics
       university: University of Pennsylvania
       time: 2019 - 2021
       details: |
         The MS in Robotics is a truly interdisciplinary course, where I have the flexibility of taking courses in Computer Science, Electrical
-        and Mechanical Engineering. 
+        and Mechanical Engineering. In my first semester I have taken Machine Learning, Linear Systems and Theory and Intro to Robotics.
+
           - Bullet point
           - Bullet point
     - degree: BTech in Mechanical Engineering
-      university: Bristol University
+      university: National Institute of Technology Karnataka
       time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -74,32 +75,25 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Research Assistant
+      time: 2019 - Present
+      company: ModLab, University of Pennsylvania
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        In the lab, I am pat of the ModLab research group whose main research interest is on modular robotics.
+        Here, I am currently working on the ModQuad project. This project involves the design and manufacture of
+        a novel modular structure in which a quadcopter sits in. The aim of the project is to develop distributed control schemes
+        to attain desired swarm behaviour.
+    - role: Summer Research Intern
+      time: May 2018 - Aug 2018
+      company: Indian Institute of Science, Bangalore, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Developed an experimental setup consisting of autonomous Micro Aerial Vehicles (MAVs) to test laws of
+        guidance such as Pure Pursuit and Good Helmsman and tracking laws based on potential vector fields
+        Developed controls using PID tuners for navigation of MAVs in indoor environment using data from IMU
+        sensor and array of motion capture cameras. Implemented sensor fusion using Kalman filter to minimize
+        noise and improve data reliability
+        Developed the network for communication of data among MAVs, motion capture system and workstation
+        using Robot Operating System (ROS) and Matlab
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
